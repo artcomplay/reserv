@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /page9892387.html
+Disallow: /page9892426.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: https://karel-kvarcit.by/sitemap.xml
+Host: https://karel-kvarcit.by
